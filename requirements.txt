@@ -1,0 +1,15 @@
+pyttsx3==2.90
+SpeechRecognition==3.9.0
+pywhatkit==5.4
+wikipedia==1.4.0
+requests==2.28.1
+ecapture==2.0.1
+datetime==4.9
+python-time==0.3.0
+subprocess.run==0.0.8
+wolframalpha==5.0.0
+python-decouple==3.6
+openai==0.25.0
+pyreadline3==3.4.1
+pyChatGPT
+pyAudio==0.2.12
