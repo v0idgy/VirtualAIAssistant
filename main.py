@@ -139,7 +139,7 @@ if __name__=='__main__':
             time.sleep(5)
 
         elif "weather" in statement:
-            api_key="8ef61edcf1c576d65d836254e11ea420"
+            api_key="a89c145c58acee9191c7d42822757ca1"
             base_url="https://api.openweathermap.org/data/2.5/weather?"
             speak("whats the city name")
             city_name=takeCommand()
@@ -228,5 +228,3 @@ if __name__=='__main__':
             subprocess.call(["shutdown", "/l"])
 
 time.sleep(3)
-
-
