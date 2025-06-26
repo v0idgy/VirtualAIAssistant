@@ -128,8 +128,8 @@ if __name__=='__main__':
             time.sleep(5)
         
         elif 'chatgpt' in statement or 'GPT' in statement or 'gpt' in statement or 'open ai' in statement:
-            session_token = 'eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..ItgvFWSJdJ5cOFGp.ly8eQl41a2VZSrJty5slrxaaOTiW00DYLFVKckiOvEH7YTVp1gnZLRY8yTkHgSH9K3quJJ2CuKC1XleOyi5tbj4XXtb1puRaU7zt24XdWtEQMN-f_gTMreGfyXorg7wu3elXibPDcXvE16BrJ80x1neluh7IQq3GHBm838J10YltC8mNZ_S2fLzPw5RMREnFl9pu2MkE3odB-KtsFkRDTnUGxjbmdjkfHVxiF7-NWiYicYr0NgE9u2Ooz2ktWzMyZQmuq6IDY-IOU7JZ8gu3It7MharIQcPIoJLIK2mh7P1Xu4RF5gjXfYh_fkhS8Tpf0Efj1NeKffRGNx7WSuyqZArHKr-D13F4heAU03m_nexbq10fTWz2nV0R-yLGq8q_ubtkCebdcidM35ZOPzZmEWfA160wXFp157aw9TZOkymRgRnE3kHE5Z6-vEvoLT9deXJ4E9BneD-1LxREqX6T7zhC8o4GXyi6I37TqSVt_Qv_brr5H7g_XGIUFl_UQEIQ2KRnPq_o33dWjJo0u7Wd5YB_4GR-iDZKCUKdGMGjnzRZUInS8iBp71gR6d_EAx7UF2aNJDKSSDdI2HZKf_Quj612Zl0277PDciMpDjHZLP0QMkWbkYuN2JqXMaVwzwvP9bzpEoqISk-AWGVKCQi2nw7gRiWfUf35xFN4-nZECRp26DZNQKJ14FoNWeHlFbB3UXG0fZqp6jvuKL1OU8-0sqpNcHOhXPVPcRxstWKQ0zcR8HbFO7U8XE1a8Ploq1hGblnknEKSJ79bxk6BGu_-Iml5mHurvDpc_cIj-yHHokbLummIC7MB6GwSg7iClqqmYJk0q-JrL1klK4FKKFvIU1WCSnzUVNw4sd3z7hvnH_L-evhVspOSWHkUMrsPiB8OoTQglqNx371lEjzPJHDrGsmhpH-zW_rBngrEsoI6Odn5tcP6mEUPBWZ27Nxl2GiB3HHOoisKdGpvzPfPi34DL6qYgbJtVEtkspH7EZdpt-sfA-OYeL9oonN8rNUQn787PHLHly0zpMBK5_CMHBeIaihVPmhyhkZuWuL9MhSVHPrsC36I5J2MwSmHSJbKysYonozb1vN6YHvaOCy64DuXNqJ8ulZ6JGR9TJ6isshWWm37jV9I6xw3Hz6i2JtCLITmsBPrUamhB6x9WwALZgn_UGnNq-m2yOV9sKbHVXkq1807K_3KF25AEg-jJSJY7KfU358Or7giVXIsg_ihzYzGrYSsY7mTG3mCMcpqP8UqnJKVk6uLBM3MC_JxAV-1DLkJN6yr9KLukSHt0-rtO6_rQ9Ji9WrGFmYwYNuS5K9mF06OK3Xbe_xyinlhEo3d8BSJgF1k7LteZGL89I8LZawH68VELl5AvK2yzMBoRKih2UII3Leb25gc-48MGohO7er1UWw1oxaFWXJeuUjaI-6QO80UPM_8xH5d9lVTfq0URrxoPpn0QN2C7QXh50ImntzDzAqRQ5Hcaac0vHxqyJC0HmGPEBlqu1YOTu38XTMUXEk7bvT_UHwuOid0VISW9fcNJ-sdEFqa8YyBrD994Qtdn0bFONj3aR8gm3rPMPKgyPXXQzI_8cwVf37SwFgisNItIAk7y6IKA4IBOjmFogj-kDMS4e5EYbN6SxUSlan1eYTVBL3-X_oqMHmTZUSn6G8SuBey4rLe-eoTXFDTA5-9QtPZeTnjZEg2pFDgadF-v_8ztpGqV9lNufWxhscucwXGaNKVA1uaOsJ1NlVPm4AsaXIW97n0OGu6YGFz8dL7gIWSMbo8H4dy4n0t5d-ZicO4iUOcBQm_py6R4Sbi4AsqxfZnQ95AKlmNTo3AZ5Tb-znQpZ8c8KF5-izeoY6786tb1XS-_VH2jHuai4PEJ1PIB52_eMoNpibKMRwmGoD6_ZPO5roW592oL3WcD0jIiPVPiQSeXXgiO6pU18LxsXJeIx3H3T8bUVsg7eSz95SL7VKp_HHugM5ii97EvfD30g4i05Ih_Ex7Fv9gyoAcf2pT9FUtaaLKzuPx78e7YUn2CoFJQHYfgzecvytlaDxc8mmr8Fqp8mZkt9DynvQVuLEQdVvs3EUEwbGmju8BLZJtzPaOuRl43Hj2xfLHOWGFhDzhrap-A4fzKgw8O6Ige-CQFePFNrSmKarXTazIQKhf-wO4DAQVRYuoBfJNNua9e_B7a2_tMu1r7H2DorT1ZIjcCKhyVzu88-wsdKROCv7fwZMBMpSdDGK8Mcp8YHx9ZMjIUjzpWeTc1dNovihIp8wo_2J9DAFn9rkRH3Vu76zB1-SIyQ.ajHIX4UkfnrDMAJTfjv7zQ'  # `__Secure-next-auth.session-token` cookie from https://chat.openai.com/chat
-            api = ChatGPT(session_token)
+            session_token = os.getenv("OPENAI_SESSION_TOKEN")  # `__Secure-next-auth.session-token` cookie from https://chat.openai.com/chat
+            api = ChatGPT(str(session_token))
             speak("what is your query for chat gpt")
             query=takeCommand()
             resp = api.send_message(query)
@@ -139,11 +139,11 @@ if __name__=='__main__':
             time.sleep(5)
 
         elif "weather" in statement:
-            api_key="a89c145c58acee9191c7d42822757ca1"
+            api_key=os.getenv("WEATHER_API_KEY")  # Set your OpenWeather API key as an environment variable
             base_url="https://api.openweathermap.org/data/2.5/weather?"
             speak("whats the city name")
             city_name=takeCommand()
-            complete_url=base_url+"appid="+api_key+"&q="+city_name
+            complete_url=base_url+"appid="+str(api_key)+"&q="+city_name
             response = requests.get(complete_url)
             x=response.json()
             if x["cod"]!="404":
