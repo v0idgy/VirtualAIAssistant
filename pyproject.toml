@@ -1,0 +1,9 @@
+[project]
+name = "VirtualAIAssistant"
+version = "0.1.0"
+description = "..."
+license = {text = "MIT"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent"
+]
