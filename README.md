@@ -99,13 +99,13 @@ G-One leverages several external APIs for enhanced functionality. You'll need to
 
         * export WEATHER\_API\_KEY="your\_openweathermap\_api\_key\_here"
 
-3. \# In your code, replace:app\_id="63TGQT-6WVPYU4KTW" # <--- REPLACE THIS WITH YOUR WOLFRAM ALPHA APP IDclient = wolframalpha.Client('63TGQT-6WVPYU4KTW') # <--- AND THISA more secure approach would be:# Inside your scriptimport os# ...# app\_id = os.getenv("WOLFRAM\_ALPHA\_APP\_ID")# client = wolframalpha.Client(app\_id)and then setting the environment variable WOLFRAM\_ALPHA\_APP\_ID.
+3. \# In your code, replace:app\_id="63TGXXXXXXXXXX" # <--- REPLACE THIS WITH YOUR WOLFRAM ALPHA APP IDclient = wolframalpha.Client('63TGQXXXXXXXXXXXXXXX') # <--- AND THISA more secure approach would be:# Inside your scriptimport os# ...# app\_id = os.getenv("WOLFRAM\_ALPHA\_APP\_ID")# client = wolframalpha.Client(app\_id)and then setting the environment variable WOLFRAM\_ALPHA\_APP\_ID.
 
     * Go to [Wolfram Alpha Developer Portal](https://developer.wolframalpha.com/portal/apisignup.html) and sign up/log in.
 
     * Register a new application to get an App ID.
 
-    * Directly paste the App ID into the app\_id variable in the code (it's currently hardcoded as "63TGQT-6WVPYU4KTW"). **It is highly recommended to replace this with your own ID or manage it as an environment variable for security.**
+    * Directly paste the App ID into the app\_id variable in the code (it's currently hardcoded as "63TGXXXXXXXXXXXXXXXX"). **It is highly recommended to replace this with your own ID or manage it as an environment variable for security.**
 
 Remember to restart your terminal or IDE after setting environment variables for them to take effect.
 
