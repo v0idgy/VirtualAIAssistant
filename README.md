@@ -45,7 +45,7 @@ Follow these steps to get G-One up and running on your local machine.
 
 ### Setup Steps
 
-1. git clone <https://github.com/your-username/g-one-ai-assistant.gitcd> g-one-ai-assistant
+1. git clone <https://github.com/v0idgy/virtualaiassistant.git> && cd virtualaiassistant
 
 2. python -m venv venv
 
@@ -114,7 +114,6 @@ Remember to restart your terminal or IDE after setting environment variables for
 
 To start your personal assistant, simply run the Python script:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`python g_one.py`
 
 G-One will greet you and then start listening for commands.
 
